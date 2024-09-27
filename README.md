@@ -5,7 +5,7 @@
 -->
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mihiliupendra&color=blue)  
+
   
 ### 🚀 About Me
 <!-- -
