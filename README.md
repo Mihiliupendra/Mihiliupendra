@@ -4,7 +4,7 @@
   
 ` Data Science Undergraduate @SLIIT  `
 
-<img src="https://user-images.githubusercontent.com/66903669/200928633-837ca340-99fc-4e95-8d39-7bd360ab9f1e.gif" width="200" height="200"/>
+<img src="https://github.com/Mihiliupendra/Mihiliupendra/blob/main/img.webp" width="200" height="200"/>
 
 <br/>
   
