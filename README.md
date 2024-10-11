@@ -32,9 +32,9 @@
 ***Deep Learning*** | ***NLP*** | ***Data Science*** | 
   
 <br/>
-
-
-
+![github](https://github.com/Mihiliupendra/Mihiliupendra/blob/main/ai.png)
+![github](https://github.com/Mihiliupendra/Mihiliupendra/blob/main/deep-learning.png)
+![github](https://github.com/Mihiliupendra/Mihiliupendra/blob/main/natural-language-processing.png)
 
 </div>
 
