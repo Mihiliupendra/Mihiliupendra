@@ -1,6 +1,6 @@
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Mihili+here...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Mihili Upendra+here...)](https://git.io/typing-svg)
   
 ` Data Science Undergraduate @SLIIT  `
 
@@ -21,7 +21,7 @@
 
 
 :briefcase: &nbsp; ***Undergraduate specialized in NLP, LLM, GenAI <br />***
-:computer: &nbsp;***Have hands-on experience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to NLP, Data Science.
+:computer: &nbsp;Have hexperience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to NLP, Data Science.
 #
 <br/>
 
