@@ -1,33 +1,78 @@
-###
-<h1 align="center"> Hi, I'm Mihili Upendra!</h1>  
+<div align=center>
 
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Mihili+here...)](https://git.io/typing-svg)
   
-### 🚀 About Me
-I enjoy building machine learning models, and applying statistical methods to create impactful solutions.
+` Data Science Undergraduate @SLIIT  `
+
+<img src="https://user-images.githubusercontent.com/66903669/200928633-837ca340-99fc-4e95-8d39-7bd360ab9f1e.gif" width="200" height="200"/>
+
+<br/>
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mihili-upendra) 
+#
 <br/>
 
-- 🎓 I'm currently pursuing a Data Science degree.
-- 🌱 I'm deepening my knowledge in data structures, algorithms, and large language models (LLMs).
-- 💬 Ask me about **OOP, DSA, SQL,Java,Python**.
+<div align=left>
 
-### 💻 My Languages & Tools  
-<!--
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
--->
----  
+> ### <sup> ABOUT ME </sup>
 
-### 📫 How to reach me  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourname" height="30" width="40" /></a>
-</p>
+:man_student: &nbsp; ***Persuing Bsc in Data Science, Sri Lanka Institute of Information Technology<br />***
 
 
+:briefcase: &nbsp; ***Undergraduate specialized in NLP, LLM, GenAI <br />***
+:computer: &nbsp;***Have hands-on experience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to NLP, Data Science.
+#
+<br/>
+
+> ### <sup> SKILLS & EXPERIENCES </sup>
+
+<div align=center>
   
----   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mihiliupendra&theme=chalk)](https://github.com/Mihiliupendra/github-profile-trophy)  
+***Deep Learning*** | ***NLP*** | ***Data Science*** | 
+  
+<br/>
 
----
+
+
+
+</div>
+
+#
+<br/>
+
+> ### <sup> TOOLS </sup>
+
+<br/>
+
+<div align=center>
+
+![github](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![github](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
+![github].(https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg)
+![github](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
+![github](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
+
+
+</div>
+
+#
+<br/>
+
+</div>
+<div align=left>
+
+> ### <sup> GITHUB STATS </sup>
+<br/>
+</div>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihiliupendra&layout=compact&theme=vision-friendly-dark)](https://github.com/Mihiliupendra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mihiliupendra&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![mihili's github stats](https://github-readme-stats.vercel.app/api?username=Mihiliupendra&count_private=true&show_icons=true&theme=vision-friendly-dark)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mihiliupendra&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/Mihiliupendra/github-readme-activity-graph)
+
+</div>
+</div>
