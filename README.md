@@ -1,6 +1,6 @@
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Mihili Upendra+here...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Mihili+Upendra+here...)](https://git.io/typing-svg)
   
 ` Data Science Undergraduate @SLIIT  `
 
