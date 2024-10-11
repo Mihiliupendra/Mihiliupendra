@@ -18,23 +18,18 @@
 > ### <sup> ABOUT ME </sup>
 
 :man_student: &nbsp; ***Persuing Bsc in Data Science, Sri Lanka Institute of Information Technology<br />***
-
-
 :briefcase: &nbsp; ***Undergraduate specialized in NLP, LLM, GenAI <br />***
 :computer: &nbsp;Have hexperience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to NLP, Data Science.
 #
 <br/>
 
-> ### <sup> SKILLS & EXPERIENCES </sup>
+> ### <sup> SKILLS</sup>
 
 <div align=center>
   
-***Deep Learning*** | ***NLP*** | ***Data Science*** | 
+***Deep Learninp*** | ***NLP*** | ***Python*** | ***Java*** | ***OOP*** | ***DSA*** | ***SQl***
   
 <br/>
-![github](https://github.com/Mihiliupendra/Mihiliupendra/blob/main/ai.png)
-![github](https://github.com/Mihiliupendra/Mihiliupendra/blob/main/deep-learning.png)
-![github](https://github.com/Mihiliupendra/Mihiliupendra/blob/main/natural-language-processing.png)
 
 </div>
 
