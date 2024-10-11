@@ -1,20 +1,15 @@
 ###
-<h1 align="center"> Hi there, I'm Mihili Upendra! 👋👋</h1>  
-<!--
-<img align="right" alt ="coding" width = "300" height="300" src="https://github.com/yourusername/yourusername/blob/main/boy_coding_rounded.png">
--->
+<h1 align="center"> Hi, I'm Mihili Upendra!</h1>  
 
 
 
   
 ### 🚀 About Me
 <!-- -
-- I'm a passionate developer specializing in building full-stack web applications.  
- I love solving problems, create new things through code and  
-  contributing to exciting open-source projects. -->
+building machine learning models, and applying statistical methods to create impactful solutions.
 <br/>
 
-- 🎓 I'm currently pursuing an IT degree.
+- 🎓 I'm currently pursuing a Data Science degree.
 - 🌱 I’m currently learning ****.
 <!-- - 💼 I’m currently working on **[MoneyBook](GitHub project link)** -->
 - 💬 Ask me about **OOP, DSA, SQL, noSQL, python**.
