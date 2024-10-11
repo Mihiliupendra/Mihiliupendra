@@ -45,6 +45,7 @@
 ![github](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![github](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
 ![github](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
+![github](https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg)
 ![github](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
 
 
@@ -65,8 +66,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mihiliupendra&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![mihili's github stats](https://github-readme-stats.vercel.app/api?username=Mihiliupendra&count_private=true&show_icons=true&theme=vision-friendly-dark)
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mihiliupendra&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/Mihiliupendra/github-readme-activity-graph)
 
 </div>
 </div>
