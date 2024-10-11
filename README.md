@@ -49,7 +49,6 @@
 
 ![github](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![github](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
-![github].(https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg)
 ![github](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
 ![github](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
 
