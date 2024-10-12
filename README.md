@@ -18,7 +18,7 @@
 > ### <sup> ABOUT ME </sup>
 
 :man_student: &nbsp; ***Persuing Bsc in Data Science, Sri Lanka Institute of Information Technology<br />***
-:briefcase: &nbsp; ***Undergraduate specialized in NLP, LLM, GenAI <br />***
+:briefcase: &nbsp; ***Undergraduate specializing in NLP, LLM, GenAI <br />***
 :computer: &nbsp;Have hexperience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to NLP, Data Science.
 #
 <br/>
